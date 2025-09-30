@@ -32,10 +32,4 @@ This project focuses on analyzing **5 years of historical U.S. regional sales da
 - `PPT --- Regional Sales Analysis.pptx` → Presentation of insights, recommendations, and dashboard previews.  
 - `README.md` → Project documentation (this file).  
 
-## 📊 Dashboard Preview  
-*(Add screenshots of your Power BI dashboard here)*  
 
-## 🚀 How to Use  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/regional-sales-analysis.git
