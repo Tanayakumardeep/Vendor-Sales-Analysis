@@ -1,5 +1,5 @@
 
-# 📊 Regional Sales Analysis  
+# 📊 Vendor Sales Analysis  
 
 ## 📌 Project Overview  
 This project focuses on analyzing **5 years of historical U.S. regional sales data** to uncover trends, evaluate profitability, and support strategic decision-making. Using **Exploratory Data Analysis (EDA)** and an **interactive Power BI dashboard**, the analysis provides actionable insights into seasonality, product performance, channel profitability, and regional sales variations.  
